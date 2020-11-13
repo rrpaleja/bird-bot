@@ -1,1 +1,1 @@
-[]
+[{"task_id": "1", "site": "Walmart", "product": "https://www.walmart.com/ip/PlayStation-5-Console/363472942", "profile": "walmart", "proxies": "Proxy List", "monitor_delay": "5.0", "error_delay": "5.0", "max_price": ""}, {"task_id": "2", "site": "Walmart", "product": "https://www.walmart.com/ip/Sony-PlayStation-5-Digital-Edition/493824815", "profile": "walmart", "proxies": "Proxy List", "monitor_delay": "5.0", "error_delay": "5.0", "max_price": ""}]
